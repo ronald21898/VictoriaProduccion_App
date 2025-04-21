@@ -6,7 +6,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.panaderiavictoria.victoriaproduccion_app.ui.theme.home.ui.HomeScreen
 import com.panaderiavictoria.victoriaproduccion_app.ui.theme.login.ui.LoginScreen
-import com.panaderiavictoria.victoriaproduccion_app.ui.theme.login.ui.LoginViewModel
+import com.panaderiavictoria.victoriaproduccion_app.ui.theme.login.ui.ViewModel.LoginViewModel
 import com.panaderiavictoria.victoriaproduccion_app.ui.theme.login.ui.TomarOrdenScreen
 import com.panaderiavictoria.victoriaproduccion_app.ui.theme.users.ui.AddUserScreen
 
